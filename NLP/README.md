@@ -1,5 +1,5 @@
 # NLP
-My NLP projects
+My NLP tutorials
 
 Topics:
 - POS Tagger
